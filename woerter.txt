@@ -5,9 +5,9 @@ der Name,-n
 der Wothnort,-e
 die Stadt,-ä-e
 das Land,-ä-er
-der Fußball
-der Sport
-die Musik
+der Fußball (Sg.)
+der Sport (Sg.)
+die Musik (Sg.)
 der Kaffee,-s
 die Schokolade,-n
 die Pizza,-s/Pizzen
@@ -113,7 +113,7 @@ das Smartphone,-s
 der Tipp,-s
 der Tee,-s
 der Traum,-äu-e # Dream
-der Hafen,-ä
+der Hafen,-ä-
 das Schiff,-e
 das Theater,-
 das Foto,-s
@@ -133,10 +133,10 @@ das Stipendium,Stipendien
 der Film,-e
 der Freund,-e
 die Freundin,-nen
-der Frühling
-der Sommer
-der Herbst
-der Winter
+der Frühling (Sg.)
+der Sommer (Sg.)
+der Herbst (Sg.)
+der Winter (Sg.)
 der Tag,-e
 die Woche,-n
 der Sonntag,-e
@@ -148,7 +148,7 @@ der Dienstag,-e
 der Montag,-e
 das Wochenende,-n
 die Zeit,-en
-die Leute,-
+die Leute (Pl.)
 
 der Ehepartner,-
 die Ehepartnerin,-nen
@@ -183,6 +183,7 @@ der Chef,-s
 die Chefin,-nen
 das Geld (Sg.)
 der Kollege,-n
+die Kollegin,-nen
 der Kuchen,-
 die Pause,-n
 das Haus,-äu-er
@@ -267,6 +268,131 @@ das Bett,-en
 
 der Kurs,-e
 die Volkshochschule,-n
-der Test.-s
+der Test,-s
 die Schule,-n 
 
+der Appetit (Sg.)
+der Ausflug,-ü-e
+der Flug,-ü-e
+die Ausstellung,-en
+der Babybrei,-e
+der Bäcker,-
+die Bäckerin,-nen
+die Bäckerei,-en
+die Bank,-en
+der Basketball (Sg.)
+der Baum,-äu-e
+das Bier (Sg.)
+die Birne,-n
+der Blog,-s
+der Blogtext,-e
+der Text,-e
+die Blume,-n
+das Büro,-s
+der Cappuccino,-s
+die Chips (Pl.)
+der Comic,-s
+das Spiel,-e
+der Deospray,-s
+das Ei,-er
+die Einladung,-en
+das Eis (Sg.)
+der Espresso,-s
+die Eule,-n
+das Fahrrad,-ä-er
+der Familienstand (Sg.)
+der Fan,-s
+das Fleisch (Sg.)
+der Flohmarkt,-ä-e
+die Freizeit (Sg.)
+die Freizeitaktivität,-en
+der Garten,-ä-
+die Geige,-n # Violin
+das Geschäft,-e
+das Getrank,-e
+der Glückwunsch,-ü-e
+die Hausaufgabe,-n
+der Himmel,-
+das Hotel,-s
+der Job,-s
+die Spezialität,-en
+der Kakao,-s
+die Kanne,-n # can, pot
+die Katze,-n
+der Kaufmann,-ä-er
+die Kauffrau,-en
+der Kellner,-
+das Kino,-s
+das Konzert,-e
+das Kreuz,-e
+der Krimi,-s
+die Laune,-n # mood, whimsy
+das Lebensmittel,-
+die Lerche,-n
+der Mais (Sg.)
+die Mama,-s
+das Meer,-e
+der Milchkaffee,-s
+das Modedesign (Sg.)
+der Moment,-e
+das Musical,-s
+die Nachricht,-en
+der Nachtmensch,-en
+der Mensch,-en
+die Nachtschicht,-en # nightshift
+die Nationalität,-en
+die Oma,-s
+die Oper,-n
+der Ort,-e
+der Papa,-s
+die Paprika,-s
+die Person,-en
+die Post (Sg.)
+die Praline,-n
+der Preis,-e
+das Problem,-e
+der Professor,-en
+die Professorin,-nen
+das Programm,-e
+der Projektleiter,- # project leader/head/manager
+die Projektleiterin,-nen # project leader/head/manager
+das Prozent,-e
+die Pyramide,-n
+das Radio,-s
+der Schatz,-ä-e # darling, sweetheart
+der Schauspieler,-
+die Schauspielerin,-nen
+der Schlittschuh,-e
+der Schlüssel,-
+der Schokokuchen,-
+der Schriftsteller,-
+die Schriftstellerin,-nen # author, writer
+die Sehenswürdigkeit,-en # landmark, sight
+der Sekretär,-e
+die Sekretärin,-nen
+der Sekt (Sg.)
+der Ski,-er
+der Skiurlaub,-e
+das Snowboard,-s
+das Sonderangebot,-e
+die Sonnenbrille,-n
+die Sorte,-n # sort, kind
+die Stunde,-n
+das Teehaus,-äu-er
+die Torte,-n
+der Tourist,-en
+die Touristin,-nen
+die Tradition,-en
+der Typ,-en
+der Unterricht,-e # class
+das Viertel,-
+der Volleyball (Sg.)
+die Wahl,-en # choice, election
+der Wecker,- # alarm clock
+die Weihnachtsfeier,-n
+die Wohngemeinschaft,-en
+der Wohnort,-e
+die Wohnung,-en
+das Yoga (Sg.)
+die Zeitung,-en
+die Zwiebel,-n
