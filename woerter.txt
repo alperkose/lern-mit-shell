@@ -1,11 +1,11 @@
-der Name,-n: isim
-der Wothnort,-e: yasadigin sehir(yer)
-die Stadt,-ä-e: sehir
-das Land,-ä-er: Ulke
-der Fußball: futbol 
-der Sport: spor
-die Musik: Muzik
-der Kaffee,-s: kahve
+der Name,-n
+der Wothnort,-e
+die Stadt,-ä-e
+das Land,-ä-er
+der Fußball
+der Sport
+die Musik
+der Kaffee,-s
 die Schokolade,-n
 die Pizza,-s/Pizzen
 die Technik,-en
@@ -121,7 +121,7 @@ der Samstag,-e
 der Freitag,-e
 der Donnerstag,-e
 der Mittwoch,-e
-der Dienstah,-e
+der Dienstag,-e
 der Montag,-e
 das Wochenende,-n
 die Zeit,-en
