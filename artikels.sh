@@ -2,7 +2,7 @@
 # set -x
 
 function isArtikel  {
-	return $( [[ $1 == "der" ]] || [[ $1 == "die" ]] || [[ $1 == "das" ]] || /bin/false )
+	return $( [[ $1 == "der" ]] || [[ $1 == "die" ]] || [[ $1 == "das" ]] )
 }
 
 LINECOUNT=$(wc -l woerter.txt | grep -E '\d+' -o)
