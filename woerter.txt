@@ -1,3 +1,6 @@
+# A1.1
+der Herr,-en
+die Frau,-en
 der Name,-n
 der Wothnort,-e
 die Stadt,-ä-e
@@ -11,6 +14,8 @@ die Pizza,-s/Pizzen
 die Technik,-en
 die Kunst,-ü-e
 die Mode,-n
+der Familienname,-n
+der Vorname,-n
 
 der Lehrer,-
 die Lehrerin,-nen
@@ -31,12 +36,30 @@ die Studentin,-nen
 der Programmierer,-
 die Programmiererin,-nen
 die Reinigungskraft,-ä-e
+die Schweiz
 der Beruf,-e
 die Firma,Firmen
 die Adresse,-n
 die E-Mail,-s
 die Nummer,-n
 das Hobby,-s
+der Nachname,-n
+die Hausnummer,-n
+die Postleitzahl,-en
+die Straße,-n
+die Telefonnummer,-n
+    Österreich
+
+der Pass,-ä-e
+das Diplom,-e
+das Sprachzertifikat,-e
+der Führerschein,-e
+die Deutch-Kentnisse,-
+die Arbeitszeit,-en
+der Arbeitsort,-e
+der Arbeitslohn,-ö-e
+die Vorwahl,-en # Area code
+die Ländervorwahl,-en # Country code
 
 der Bleistift,-e
 das Buch,-ü-er
@@ -68,7 +91,7 @@ der Laptop,-s
 die Maus,-äu-e
 die Süßigkeit,-en
 das Auto,-s
-dash Jahr,-e
+das Jahr,-e
 der Füller,-
 die Kamera,-s
 
@@ -89,7 +112,7 @@ die CD,-s
 das Smartphone,-s
 der Tipp,-s
 der Tee,-s
-der Traum,-äu-e
+der Traum,-äu-e # Dream
 der Hafen,-ä
 das Schiff,-e
 das Theater,-
@@ -125,23 +148,23 @@ der Dienstag,-e
 der Montag,-e
 das Wochenende,-n
 die Zeit,-en
-die Leute
+die Leute,-
 
 der Ehepartner,-
 die Ehepartnerin,-nen
-die Geschwister
+die Geschwister (Pl.)
 der Bruder,-ü-
 die Schwester,-n
-die Großeltern
+die Großeltern (Pl.)
 die Großmutter,-ü-
 der Großvater,-ä-
-die Eltern
+die Eltern (Pl.)
 die Mutter,-ü-
 der Vater,-ä-
 das Kind,-er
 der Sohn,-ö-e
 die Tochter,-ö-
-das Ausland
+das Ausland (Sg.)
 die Familie,-n
 der Brief,-e
 die Party,-s
@@ -158,12 +181,92 @@ das Geschenk,-e
 der Arbeitsplatz,-ä-e
 der Chef,-s
 die Chefin,-nen
-das Geld
+das Geld (Sg.)
 der Kollege,-n
 der Kuchen,-
 die Pause,-n
 das Haus,-äu-er
-der Schnee,
+der Schnee (Sg.)
 der Berg,-e
 
+die Krippe,-n # Nursery
+der Kindergarten,-ä-
+die Kita,-s
+die Kindertagesstätte,-n
+der Kindergartenplatz,-ä-e
+die Anmeldung,-en
+das Formular,-e
+
+der Apfel,Ä-
+die Butter (Sg.)
+die Gurke,-n
+der Joghurt,-s
+die Milch (Sg.)
+das Wasser (Sg.)
+die Wurst,-ü-e
+die Banane,-n
+der Käse (Sg.)
+die Marmelade,-n
+der Saft,-ä-e
+der Salat,-e
+die Tomate,-n
+der Wein (Sg.)
+das Obst (Sg.)
+die Kartoffel,-n
+die Nudeln (Pl.)
+der Reis (Sg.)
+das Brot,-e
+die Tafel,-n
+der Becher,-
+die Dose,-n
+das Glas,-ä-er
+das Netz,-e
+die Orange,-n
+die Packung,-en
+das Stück,-e
+die Tüte,-n
+das Frühstück,-e
+der Fisch,-e
+das Gemüse (Sg.)
+das Café,-s
+das Essen
+das Gramm,-
+der Liter,-
+der Pfund,-e
+das Kilo,-s
+das Kilogramm,-
+das Brötchen,-
+die Sahne (Sg.)
+die Schlagsahne (Sg.)
+der Zucker (Sg.)
+die Karte,-n
+
+der Morgen,-
+der Vormittag,-e
+der Mittag,-e
+der Nachmittag,-e
+der Abend,-e
+die Nacht,-ä-e
+der Termin,-e
+der Deutschkurs,-e
+der Monat,-e
+der Januar (Sg.)
+der Februar (Sg.)
+der März (Sg.)
+der April (Sg.)
+der Mai (Sg.)
+der Juni (Sg.)
+der Juli (Sg.)
+der August (Sg.)
+der September (Sg.)
+der Oktober (Sg.)
+der November (Sg.)
+der Dezember (Sg.)
+der Besuch,-e
+das Bett,-en
+
+der Kurs,-e
+die Volkshochschule,-n
+der Test.-s
+die Schule,-n 
 
