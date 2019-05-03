@@ -1,6 +1,10 @@
 #!/bin/bash
 # set -x
 
+function isArtikel  {
+	return $( [[ $1 == "der" ]] || [[ $1 == "die" ]] || [[ $1 == "das" ]] || /bin/false )
+}
+
 LINECOUNT=$(wc -l woerter.txt | grep -E '\d+' -o)
 
 QUESTIONS=${1:-10}
@@ -12,16 +16,12 @@ while [ $ANSWERS -lt $QUESTIONS ]; do
 	RANDLINE=$((1 + RANDOM % $LINECOUNT))
 	WORD=$(head -n $RANDLINE woerter.txt | tail -n 1)
 	ARTIKEL=$(echo $WORD | cut -c 1-3)
-	[[ $ARTIKEL == "der" ]] || [[ $ARTIKEL == "die" ]] || [[ $ARTIKEL == "das" ]] || continue
+	isArtikel $ARTIKEL || continue
 	
 	while true 
 	do
 		read -p "___ $(echo $WORD | cut -c 5-100)$(printf '\r')" answer
-		case $answer in
-			der ) break;;
-			die ) break;;
-			das ) break;;
-		esac
+		isArtikel $answer && break
 	done
 	if [[ $answer == $ARTIKEL ]]; then 
 		echo 👍🏼
