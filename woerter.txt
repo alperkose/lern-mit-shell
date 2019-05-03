@@ -1,0 +1,169 @@
+der Name,-n: isim
+der Wothnort,-e: yasadigin sehir(yer)
+die Stadt,-ä-e: sehir
+das Land,-ä-er: Ulke
+der Fußball: futbol 
+der Sport: spor
+die Musik: Muzik
+der Kaffee,-s: kahve
+die Schokolade,-n
+die Pizza,-s/Pizzen
+die Technik,-en
+die Kunst,-ü-e
+die Mode,-n
+
+der Lehrer,-
+die Lehrerin,-nen
+der Verkäufer,-
+die Verkäuferin,-nen
+der Elektriker,-
+die Elektrikerin,-nen
+der Ingenieur,-e
+die Ingenieurin,-nen
+der Musiker,-
+die Musikerin,-nen
+der Arzt,Ä-e
+die Ärztin,Ä-nen
+der Busfahrer,-
+die Busfahrerin,-nen
+der Student,-en
+die Studentin,-nen
+der Programmierer,-
+die Programmiererin,-nen
+die Reinigungskraft,-ä-e
+der Beruf,-e
+die Firma,Firmen
+die Adresse,-n
+die E-Mail,-s
+die Nummer,-n
+das Hobby,-s
+
+der Bleistift,-e
+das Buch,-ü-er
+das Handy,-s
+das Heft,-e 
+der Kuli,-s
+der Kugelschreiber,-
+die Lampe,-n
+der Radiergummi,-s
+die Tasche,-n
+der Tisch,-e
+das Fenster,-
+die Flasche,-n
+der Papierkorb,-ö-e
+der Stuhl,-ü-e
+die Tafel,-n
+die Tasse,-n
+die Jacke,-n
+das Tablet,-s
+die Tür,-en
+das Ding,-e
+der Zettel,-
+die Brille,-n
+der Stift,-e
+die Uhr,-en
+das Bild,-er
+der Computer,-
+der Laptop,-s
+die Maus,-äu-e
+die Süßigkeit,-en
+das Auto,-s
+dash Jahr,-e
+der Füller,-
+die Kamera,-s
+
+der Schuh,-e
+das Ladekabel,-
+der USB-Stick,-s
+der Hut,-ü-e
+das Kleid,-er
+der Lippenstift,-e
+die Sonnenbrille,-n
+die Batterie,-n
+die Hose,-n
+der Koffer,-
+die Handyhülle,-n
+die Kette,-n
+der Ring,-e
+die CD,-s
+das Smartphone,-s
+der Tipp,-s
+der Tee,-s
+der Traum,-äu-e
+der Hafen,-ä
+das Schiff,-e
+das Theater,-
+das Foto,-s
+der Mann,-ä-er
+
+die Meldebestätigung,-en
+die Gesundheitskarte,-n
+die Aufenthaltserlaubnis,-se
+die Studienbeschainigung,-en
+das Bürgeramt,-ä-er
+die Krankenkasse,-n
+die Ausländerbehörde,-n
+die Universität,-en
+der Termin,-e
+das Stipendium,Stipendien
+
+der Film,-e
+der Freund,-e
+die Freundin,-nen
+der Frühling
+der Sommer
+der Herbst
+der Winter
+der Tag,-e
+die Woche,-n
+der Sonntag,-e
+der Samstag,-e
+der Freitag,-e
+der Donnerstag,-e
+der Mittwoch,-e
+der Dienstah,-e
+der Montag,-e
+das Wochenende,-n
+die Zeit,-en
+die Leute
+
+der Ehepartner,-
+die Ehepartnerin,-nen
+die Geschwister
+der Bruder,-ü-
+die Schwester,-n
+die Großeltern
+die Großmutter,-ü-
+der Großvater,-ä-
+die Eltern
+die Mutter,-ü-
+der Vater,-ä-
+das Kind,-er
+der Sohn,-ö-e
+die Tochter,-ö-
+das Ausland
+die Familie,-n
+der Brief,-e
+die Party,-s
+die Feier,-n
+die Sprache,-n
+der Deutsche,-n
+die Deutsche,-n
+der Österreicher,-
+die Österreicherin,-nen
+der Schweizer,-
+die Schweizerin,-nen
+der Geburstag,-e
+das Geschenk,-e
+der Arbeitsplatz,-ä-e
+der Chef,-s
+die Chefin,-nen
+das Geld
+der Kollege,-n
+der Kuchen,-
+die Pause,-n
+das Haus,-äu-er
+der Schnee,
+der Berg,-e
+
+
