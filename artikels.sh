@@ -26,8 +26,10 @@ while [ $ANSWERS -lt $QUESTIONS ]; do
 	if [[ $answer == $ARTIKEL ]]; then 
 		echo 👍🏼
 		((CORRECT_ANSWERS++))
+		echo $(date +%s),1,\"$WORD\",\"$answer\" >> .history
 	else 
 		echo 👎🏼 $WORD
+		echo $(date +%s),0,\"$WORD\",\"$answer\" >> .history
 	fi
 
 	((ANSWERS++))
