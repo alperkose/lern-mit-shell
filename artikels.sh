@@ -35,3 +35,5 @@ while [ $ANSWERS -lt $QUESTIONS ]; do
 	((ANSWERS++))
 done
 echo  $CORRECT_ANSWERS x 👍🏼 / $((QUESTIONS - CORRECT_ANSWERS)) x 👎🏼
+echo wrong aswers in raw form:
+tail -n $QUESTIONS .history | grep ',0,'
