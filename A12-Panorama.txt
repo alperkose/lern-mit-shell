@@ -1,0 +1,216 @@
+die Kopie; Kopien
+das Praktikum; Praktika
+die Grafik; Grafiken
+die Frage; Fragen
+die Prüfung; Prüfungen
+die Reise; Reisen
+die Konferenz; Konferenzen
+die Verspätung; Verspätungen
+die Präsentation; Präsentationen
+der Fehler; Fehler
+das Taxi; Taxis
+der Redakteur; Redakteure
+die Redakteurin; Redakteurinnen
+das Internet; Internet
+die Breifmarke; Briefmarken
+die Post; Post
+die Ampel; Ampeln
+die Haltestelle; Haltestellen
+der Stau; Staus
+der Fußgänger; Fußgänger :en:Pedestrian
+die Fußgängerin; Fußgängerinnen
+der Autofahrer; Autofahrer
+die Autofahrerin; Autofahrerinnen
+
+die Ausbildung; Ausbildungen
+die/der Azubi; Azubis :en:Trainee
+der GeldAutomat; Geldautomaten
+die Überweisung; Überweisungen
+der Kontostand; Kontostände
+die Kontonummer; Kontonummern
+
+das Sofa; Sofas
+die Matratze; Matratzen
+die WG; WGs
+die Wohngemeinschaft; Wohngemeinschaften
+das Zentrum; Zentren
+die Küche; Küchen
+die Oma; Omas
+das Wohnzimmer; Wohnzimmer
+das Schlafzimmer; Schlafzimmer
+das Kinderzimmer; Kinderzimmer
+das Arbeitszimmer; Arbeitszimmer
+das Bad; Bäder
+das Badezimmer; Badezimmer
+der Flur; Flure
+der Balkon; Balkone
+die Ankunft; Ankünfte
+der Schlüssel; Schlüssel
+das Erdgeschoss; Erdgeschosse
+der Schrank; Schränke
+der Herd; Herde :en:Stove
+der Teller; Teller
+die Wand; Wände
+das Regal; Regale
+das Angebot; Angebote
+das Leben; Leben
+der Nachbar; Nachbarn
+die Nachbarin; Nachbarinnen
+
+die Gesundheit; Gesundheit
+der Körper; Körper
+das Wetter; Wetter
+die Kleidung; Kleidung
+der Alcohol; Alcohol
+der Spaziergang; Spaziergänge :en:Stroll
+das Auge; Augen
+die Nase; Nasen
+der Mund; Münder
+der Kopf; Köpfe
+das Ohr; Ohren
+der Hals; Hälse
+die Schulter; Schultern :en:Shoulder
+der Arm; Arme
+die Hand; Hände
+der Rücken; Rücken
+der Bauch; Bäuche
+das Bein; Beine
+der Fuß; Füße
+die Bauchschmerzen; (Pl.)
+der Unfall; Unfälle :en:Accident
+die Kopfschmerzen; (Pl.)
+das Fieber; (Sg.)
+die Zahnschmerzen; (Pl.)
+der Zarn; Zähne
+die Tablette; Tabletten
+das Medikament; Madikamente
+der Hund; Hunde
+der Kühlschrank; Kühlschränke
+der Stock; Stocks
+
+die Erkältung; Erkältungen :en:Cold:tr:Usutme
+die Schmerztablette; Schmerztabletten :en:Pain killer
+das Fieberthermometer; Fieberthermometer
+die Apotheke; Apotheken
+das Rezept; Rezepte
+die Krankschreibung; Krankschreibungen :en:sick leave
+
+das Fest; Feste
+der Fotograf; Fotografen
+die Fotografin; Fotografinnen
+die Hochzeit; Hochzeiten
+die Aufgabe; Aufgaben
+der Kunde; Kunden
+die Kundin; Kundinnen
+der Weihnachtsmann; Weinachtsmänner
+das Kostüm; Kostüme
+der Junge; Jungen
+das Gespräch; Gespräche
+der Karneval; (Sg.)
+der Silvester; (Sg.)
+das Feuerwerk; Feuerwerke
+das Oktoberfest; Oktoberfeste
+das Datum; Daten
+der Feiertag; Feiertage
+die Einweihungsparty; Einweihungspartys
+die Antwort; Antworten
+die Karte; Karten
+das Salz; (Sg.)
+das Glück; (Sg.)
+die Pflanze; Pflanzen
+die Sache; Sachen
+das Mädchen; Mädchen
+der Kuss; Küsse
+die Unterschrift; Unterschriften
+die Anrede; Anreden :en:Salutation
+der Teilnehmer; Teilnehmer
+die Teilnehmerin; Teilnehmerinnen
+der Besucher; Besucher
+die Besucherin; Besucherinnen
+das Ende; Enden
+
+der Wind; Winde
+die Wolke; Wolken :en:Cloud
+der Regen; (Sg.)
+der Schnee; (Sg.)
+die Sonne; Sonnen
+die Jacke; Jacken
+der Mantel; Mäntel
+der Pullover; Pullover
+der Pulli; Pullis
+der Rock; Röcke
+das T-Shirt; T-Shirts
+die Bluse; Blusen
+das Hemd; Hemden
+der Anzug; Anzüge
+der Stiefel; Stiefel :en:Boots
+die Mütze; Mützen :en:Cap:tr:Bere
+der Handschuh; Handschuhe
+der Regenschirm; Regenschirme :en:Umbrella
+die Farbe; Farben
+die Disko; Diskos
+
+der Notruf; Notrufe :en:emergency call
+der Notfall; Notfälle :en:emergency
+die Feuerwehr; (Sg.)
+der Notarzt; Notärzte
+die Notärztin; Notärztinnen
+der Autounfall; Autounfälle :en:Car accident
+
+der Platz; Plätze
+die Kreuzung; Kreuzungen
+das Schild; Schilder :en:Sign
+der Zebrastreifen; Zebrastreifen
+der Bahnhof; Bahnhöfe
+die Fußgängerzone; Fußgängerzonen
+der Radweg; Radwege
+das Restaurant; Restaurants
+der Schalter; Schalter :en:Counter
+der Kiosk; Kioske
+das Gleis; Gleise
+die Anzeigetafel; Anzeigetafeln :en:Scoreboard
+die Fahrkarte; Fahrkarten
+die Information; Informationen
+die Raucherzone; Raucherzonen
+die Kreditkarte; Kreditkarten
+der Müll; (Sg.)
+die Polizei; (Sg.)
+der Spielplatz; Spielplätze
+die Bitte; Bitten
+
+der Strand; Strände
+das Meer; Meere
+die Insel; Inseln
+das Dorf; Dörfer
+der Wald; Wälder
+die Kirche; Kirchen
+der See; Seen
+das Boot; Boote
+der Fluss; Flüsse
+die Dusche; Duschen
+das Doppelzimmer; Doppelzimmer
+der Fernseher; Fernseher
+der Internetanschluss; Internetanschlüsse :en:internet connection
+die Heizung; Heizungen
+das Radio; Radios
+das Licht; (Sg.)
+die Toilette; Toiletten
+die Badewanne; Badewannen :en:Bathtub
+das Einzelzimmer; Einzelzimmer
+die Übernachtung; Übernachtungen
+die Rezeption; Rezeptionen
+die Ferien; (Pl.)
+der Manager; Manager
+die Managerin; Managerinnen
+das Ergebnis; Ergebnisse :en:Result
+der Unterschied; Unterschiede
+das Feuer; Feuer
+
+die Baustelle; Baustellen :en:contruction site
+die Buslinie; Buslinien
+die Umleitung; Umleitungen :en:detour
+die Kurzstrecke; Kurzstrecken :en:Shortcut
+die Monatskarte; Monatskarten 
+der Einzelfahrschein; Einzelfahrscheine :en:one-way ticket
+die Tageskarte; Tageskarten
+

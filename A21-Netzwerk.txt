@@ -1,0 +1,240 @@
+der Durst; (Sg.)
+der Hunger; (Sg.)
+das Geschirr; (Sg.)
+das Kochbuch; Kochbücher
+die Pfanne; Pfannen
+das Sieb; Siebe
+der Topf; Töpfe
+die Bohne; Bohnen
+die Currywurst; Currywürste
+die Kantine; Kantinen
+das Rindfleich; (Sg.)
+die Zitrone; Zitronen
+das Fernsehen; (Sg.)
+die Dunkelheit; (Sg.) :en:darkness
+der Eindruck; Eindrücke :en:Impression
+die Erfahrung; Erfahrungen :en:Experience
+das Erlebnis; Erlebnisse :en:Experience
+der Gedanke; Gedanken :en:Thought
+der Geruch; Gerüche :en:Smell
+das Licht; Lichter
+das Menü; Menüs
+die Sorge; Sorgen :en:Worry
+der Gegenstand; Gegenstände
+der Kleber; Kleber
+das Parfum; Parfums
+der Sinn; Sinne
+
+die Klasse; Klassen
+das Klassenzimmer; Klassenzimmer
+die Hausaufgabe; Hausaufgaben
+die Schuluniform; Schuluniformen
+die Stunde; Stunden
+die Stundenplan; Stundenpläne
+der Unterricht; (Sg.)
+die Pause; Pausen
+die Ferien; (Pl.)
+das Fach; Fächer :en:Field of expertise:tr:Ders alani
+die Fremdsprache; Fremdsprachen
+das Lieblingsfach; Lieblingsfächer
+die Note; Noten
+das Zeugnis; Zeugnisse
+der Fehler; Fehler
+die Prüfung; Prüfungen
+der Test; Tests
+der Abendkurs; Abendkurse
+die Arbeitswelt; (Sg.)
+die Ausbildung; Ausbildungen
+das Berufsleben; (Sg.)
+die Berufsschule; Berufsschulen
+die Karriere; Karrieren
+der Kontakt; Kontakte
+die Lehre; Lehren :tr:Ogretim
+das Praktikum; Praktika
+der Plan; Pläne
+die Vorbereitung; Vorbereitungen
+die Zukunft; (Sg.)
+die Universität; Universitäten
+das Seminar; Seminare
+das Semester; Semester
+der Professor; Professoren
+die Professorin; Professorinnen
+die Vorlesung; Vorlesungen :en:lecture
+die Grundschule; Grundschulen
+die Hauptschule; Hauptschulen
+die Realschule; Realschulen
+die Gesamtschule; Gesamtschulen
+das Gymnasium; Gymnasien
+das Abitur; Abiture
+der Abschluss; Abschlüsse
+das Internat; Internate :en:Boarding school
+die Ausstellung; Ausstellungen :en:Exhibition
+der Besuch; Besuche
+der Tipp; Tipps
+die Erinnerung; Erinnerungen
+
+der Bildschirm; Bildschirme
+die CD-ROM; CD-ROMs
+der Drucker; Drucker
+das Laufwerk; Laufwerke :en:Smt. Player
+der Lautsprecher; Lautsprecher
+die Maus; Maüse
+#das/der Tablet; Tablets
+die Tastatur; Tastaturen
+die Web-Cam; Web-Cams
+die Medien; (Pl.)
+das E-Boook; E-Books
+das Fernsehgerät; Fernsehgeräte
+das Smartphone; Smartphones
+der MP4-Player; MP4-Player
+der I-Pod; I-Pods
+die Spielekonsole; Spielekonsolen
+das Radio; Radios
+der Actionfilm; Actionfilme
+der Fantasy-Film; Fantasy-Filme
+die Komödie; Komödien
+der Regisseur; Regisseure
+die Romanze; Romanzen
+der Schauspieler; Schauspieler
+die Schauspielerin; Schauspielerinnen
+der Thriller; Thriller
+das Video; Videos
+der Zuschauer; Zuschauer :en:Audience
+der Ausländer; Ausländer
+der Fotograf; Fotografen
+die Fotografin; Fotografinnen
+die Heimat; (Sg.)
+der Konflikt; Konflikte
+die Lösung; Lösungen
+das Papier; Papiere
+das Produkt; Produkte
+die Umfrage; Unfragen :en:Survey
+das Vorurteil; Vorurteile :en:Prejudice
+
+die Blume; Blumen
+der Blumenstrauß; Blumensträuße :en:Bouquet
+das Ereignis; Ereignise :en:Event
+die Feier; Feiern
+die Führerscheinprüfung; Führerscheinprüfungen
+die Geburt; Geburten
+die Hochzeit; Hochzeiten
+das Jubiläum; Jubiläen
+der Ring; Ringe
+die Angst; Ängste
+die Erinnerung; Erinnerungen :en:Memory
+die Freundschaft; Freundschaften
+das Gefühl; Gefühle :en:Feeling
+das Glück; (Sg.)
+die Kindheit; (Sg.)
+die Liebe; (Sg.)
+das Pech; (Sg.) :en:Bad luck
+die Sehnsucht; Sehnsüchte :en:Longing
+das Feuerwerk; Feuerwerke
+das Kinderfest; Kinderfeste
+das Stadtfest; Stadtfeste
+die Veranstaltung; Veranstaltungen :en:Event
+die Band; Bands
+das Lied; Lieder
+die Melodie; Melodien
+der Musikstil; Musikstile
+die Ankunft; (Sg.)
+das Ausland; (Sg.)
+das Wohnheim; Wohnheime :en:Dorm
+der Grund; Gründe
+der Kreis; Kreise :en:Circle
+
+der Anwalt; Anwälte :en:Lawyer
+der Friseur; Friseure
+der Grafiker; Grafiker
+der Tischler; Tischler
+der Vermieter; Vermieter
+der Kamm; Kämme :en:Comb
+die Schere; Scheren
+die Abfahrt; Abfahrten :en:Departure
+das Abteil; Abteile :en:Compartment
+die Auskunft; Auskünfte :en:Information
+der Bahnsteig; Bahnsteige :en:Platform
+die Durchsage; Durchsagen :en:Announcement
+der Fahrgast; Fahrgäste
+der Fahrplan; Fahrpläne
+der Gang; Gänge :en:Aisle
+das Gleis; Gleise
+der Großraumwagen; Großraumwagen
+die Hinfahrt; Hinfahrten
+die Rückfahrt; Rückfahrten
+die Information; Informationen
+die Klasse; Klassen
+der Platz; Plätze
+das Schild; Schilder :en:Sign
+der Waggon; Waggons
+die Ermäßigung; Ermäßigungen :en:Discount
+die Sehenswürdigkeit; Sehenswürdigkeiten
+der Senior; Senioren
+die Seniorin; Seniorinnen
+der Anfang; Anfänge
+die Autobahn; Autobahnen
+der Berufswechsel; Berufswechsel
+die Freiheit; Freiheiten
+der Lastwagen; Lastwagen
+der Traum; Träume
+der Traumberuf; Traumberufe
+das Blatt; Blätter
+die Durchwahl; Durchwahlen
+die Nachricht; Nachrichten
+die Ruhe; (Sg.)
+der Austausch; (Sg.)
+die Balance; (Sg.)
+die Fähigkeit; Fähigkeiten
+die Flexibilität; (Sg.)
+die Position; Positionen
+die Sicherheit; (Sg.)
+die Teamarbeit; (Sg.)
+die Internetverbindung; Internetverbindungen
+
+der Abflug; Abflüge
+die Ampel; Ampeln
+der Anschluss; Anschlüsse
+die Baustelle; Baustellen
+die Richtung; Richtungen
+die Strecke; Strecken
+der Verkehr; (Sg.)
+das Verkehrsmittel; Verkehrsmittel
+die Verspätung; Verspätungen
+das Benzin; (Sg.)
+die Garage; Garagen
+das Kfz; Kfz
+das Kraftfahrzeug; Kraftfahrzeuge
+das Kennzeichen; Kennzeichen
+der Motor; Motoren
+das Navi; Navis
+die Panne; Pannen
+das Parkhaus; Parkhäuser
+der Parkplatz; Parkplätze
+der Pkw; Pkws
+der Reifen; Reifen
+die Reparatur; Reparaturen
+der Stau; Staus
+die Tankstelle; Tankstellen
+der Wagen; Wagen
+die Versicherung; Versicherungen
+der Ausgang; Ausgänge
+der Kinderspielplatz; Kinderspielplätze
+die Kreuzung; Kreuzungen
+der Weg; Wege
+das Angebot; Angebote
+die Gebühr; Gebühren
+das Mitglied; Mitglieder
+der Vertrag; Verträge
+die Begegnung; Begegnungen
+das Ersatzteil; Ersatzteile
+die Fahrradtour; Fahrradtouren
+die Landkarte; Landkarten
+das Notizbuch; Notizbücher
+der Pass; Pässe
+die Wäsche; (Sg.)
+das Werkzeug; Werkzeuge
+der Nachteil; Nachteile :en:Disadvantage
+der Vorteil; Vorteile :en:Advantage
+die Kamera; Kameras
+der Schlüssel; Schlüssel
+
